@@ -44,7 +44,7 @@ Ensure you have the following installed:
 2. Click the **Upload Files** button and select text or PDF files.
 3. The assistant will process and store the document embeddings in the vector database.
    
-![Upload](images/.draganddrop.png)
+![Upload](images/draganddrop.png)
 
 
 ### Asking Questions
@@ -54,7 +54,7 @@ Ensure you have the following installed:
    - Any uploaded documents providing additional context.
 3. View responses in the chat interface.
    
-![Ask](images/.ask_chat.png)
+![Ask](images/ask_chat.png)
 
 ### Viewing Search Results
 1. Enter a query in the **Search in Constitution** field on the sidebar.
