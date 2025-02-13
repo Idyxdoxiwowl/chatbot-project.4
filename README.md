@@ -1,4 +1,4 @@
-# AI Assistant for the Constitution of the Republic of Kazakhstan
+# AI Assistant for the Constitution of the Republic of Kazakhstan ƪ(˘⌣˘)ʃ
 
 ## Overview
 This project is a **Minimum Viable Product (MVP)** of an AI-powered assistant designed to answer questions related to the **Constitution of the Republic of Kazakhstan**. The assistant is built using **Streamlit** for an interactive user interface and utilizes **RAG Fusion** and **multi-query generation** for more accurate responses. The model is integrated with **Ollama**, and all queries and answers are stored in a **vector database**.
